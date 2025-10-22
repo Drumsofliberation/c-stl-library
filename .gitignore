@@ -1,0 +1,38 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+examples/example_array
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+bin/
