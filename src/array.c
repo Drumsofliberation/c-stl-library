@@ -10,3 +10,4 @@ int array_find_impl(const int *arr, size_t n, int value) {
     }
     return -1;
 }
+//hi
